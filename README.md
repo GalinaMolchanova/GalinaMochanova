@@ -16,7 +16,11 @@
  
  [🔹 Web Form Testing](https://clck.ru/rU8uB)
  
+ [🔹 DevTools](https://github.com/GalinaMochanova/DevTools)
+ 
  📫 How to reach me: [Telegram](https://t.me/molchanovagalina)
+ 
+ 
 
 <!---
 GalinaMochanova/GalinaMochanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
