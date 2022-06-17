@@ -1,4 +1,4 @@
-👋 Hi, I’m Galina! Welcome to my GitHub!
+## 👋 Hi, I’m Galina! Welcome to my GitHub!
 - I'm a student on QA course by Vadim Ksendzov 
 - I'm learning English
 - I'm studying:
