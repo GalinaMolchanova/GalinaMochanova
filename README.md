@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Galina! Welcome to my GitHub!
 
 - I'm looking for a job as a QA Engineer
-- I'm a student on QA course by Vadim Ksendzov 
+- I'm a student on Software Testing course by Vadim Ksendzov
 - I'm studying:
 
  [🔹 Terminal Linux](https://github.com/GalinaMochanova/Terminal_linux)
